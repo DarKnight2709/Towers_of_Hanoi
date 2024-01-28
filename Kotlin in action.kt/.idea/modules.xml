@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/Library/Library.iml" filepath="$PROJECT_DIR$/src/Library/Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/LibraryApp/LibraryApp.iml" filepath="$PROJECT_DIR$/src/LibraryApp/LibraryApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/This_is_module/This_is_module.iml" filepath="$PROJECT_DIR$/This_is_module/This_is_module.iml" />
+    </modules>
+  </component>
+</project>
